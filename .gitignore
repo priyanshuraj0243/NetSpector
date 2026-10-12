@@ -1,0 +1,14 @@
+# Compiled binaries
+dpi_engine
+dpi_engine.exe
+packet_analyzer
+netspector
+dpi_simple
+dpi_simple.exe
+
+# Build directories
+build/
+bin/
+
+# Packet captures
+*.pcap
